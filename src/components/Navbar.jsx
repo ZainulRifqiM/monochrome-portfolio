@@ -42,9 +42,9 @@ const Navbar = () => {
                 </Link>
               ))}
             </ul>
-            <div className="space-x-4 hidden md:flex items-center text-color7">
+            <div className="space-x-4 hidden md:flex items-center text-color7 cursor-pointer">
               <a
-                to="https://www.linkedin.com/in/zainul-rifqi/"
+                href="https://www.linkedin.com/in/zainul-rifqi/"
                 target="_blank"
                 className="hover:-translate-y-2 transition-all duration-300"
               >
